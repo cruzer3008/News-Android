@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_activity_landing_page">LandingPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Log Out</string>
+
+    <string name="menu_headlines">Headlines</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_sports">Sports</string>
+    <string name="menu_finance">Finance</string>
+    <string name="menu_technology">Technology</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

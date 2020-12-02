@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_headlines">
+
+    <fragment
+        android:id="@+id/nav_headlines"
+        android:name="com.example.newslogin.ui.headlines.HeadlinesFragment"
+        android:label="@string/menu_headlines"
+        tools:layout="@layout/fragment_headlines" />
+
+    <fragment
+        android:id="@+id/nav_sports"
+        android:name="com.example.newslogin.ui.sports.SportsFragment"
+        android:label="@string/menu_sports"
+        tools:layout="@layout/fragment_sports" />
+
+    <fragment
+        android:id="@+id/nav_finance"
+        android:name="com.example.newslogin.ui.finance.FinanceFragment"
+        android:label="@string/menu_finance"
+        tools:layout="@layout/fragment_finance" />
+
+    <fragment
+        android:id="@+id/nav_technology"
+        android:name="com.example.newslogin.ui.technology.TechnologyFragment"
+        android:label="@string/menu_technology"
+        tools:layout="@layout/fragment_technology" />
+
+
+</navigation>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595632498732",
+    "firebase_url": "https://news-mobile-c7c24.firebaseio.com",
+    "project_id": "news-mobile-c7c24",
+    "storage_bucket": "news-mobile-c7c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595632498732:android:54babacf7625c3feabc989",
+        "android_client_info": {
+          "package_name": "com.example.apipractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595632498732-3tkglru7keqak0muo153e353iv588lnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaZLiKURpBbWM6tcOLjkcytG_8vYZSoA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595632498732-3tkglru7keqak0muo153e353iv588lnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
